@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.darwinsys</groupId>
-    <artifactId>hirondelle-date4j</artifactId>
+    <artifactId>HSK-ishtiaq-date4j</artifactId>
     <version>1.5.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
