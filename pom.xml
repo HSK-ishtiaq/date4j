@@ -116,8 +116,7 @@
 	    </build>
 	  </profile>
 	</profiles>
-	<distributionManagement>
-<repository>
+	
 <distributionManagement>
     <repository>
         <id>deployment</id>
@@ -130,6 +129,7 @@
         <url>http://54.91.8.86:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
+
 
 
 </project>
